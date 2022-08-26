@@ -458,6 +458,7 @@ Temporary Items
 # content below from: https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
 # Windows thumbnail cache files
 Thumbs.db
+<<<<<<< HEAD
 ehthumbs.db
 ehthumbs_vista.db
 
@@ -479,3 +480,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+=======
+>>>>>>> parent of a56418a (gitignore)
